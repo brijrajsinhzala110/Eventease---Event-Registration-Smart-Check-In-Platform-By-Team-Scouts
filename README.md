@@ -35,5 +35,11 @@ The admin can see the total number of users, events, and sign-ups. The admin can
 
 ↓
 
-### Coming Next
-Cancelling a sign-up and moving the next person from the waiting list in, sending emails, checking in without internet, and downloading attendance reports.
+### 8. Future Scope
+- **Cancel and move up:** Students can cancel a sign-up, and the next person on the waiting list gets the spot automatically.
+- **Emails:** Students get emails when they sign up, move off the waiting list, or are reminded before the event.
+- **Check-in without internet:** The scanner keeps working at venues with weak signal and syncs when the connection returns.
+- **Reports:** Organizers can download attendance and sign-up lists as Excel or PDF files.
+- **Stronger tickets:** QR codes are signed, so fake tickets can't be made.
+- **College login:** Students sign in with their college account instead of a new password.
+- **Paid events:** Events can charge a fee through online payment.
