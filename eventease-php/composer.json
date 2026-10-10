@@ -1,0 +1,19 @@
+{
+    "name": "eventease/eventease-php",
+    "description": "College Event Registration & Check-In Platform (PHP Version)",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "authors": [
+        {
+            "name": "EventEase Team",
+            "email": "team@eventease.local"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EventEase\\": "src/"
+        }
+    }
+}
